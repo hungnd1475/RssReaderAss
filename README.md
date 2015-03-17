@@ -11,3 +11,4 @@
   - **Feature 7**: Quản lý feed, feed nào đã đọc thì lần mở app sau ko hiển thị hoặc được làm mờ. Một feed sau thời gian t bao nhiêu đó sẽ đc xóa khỏi database (t sẽ do người dùng định nghĩa, tuy nhiên ban đầu nó sẽ mang một giá trị mặc định do mình chọn).
   - **Feature 8**: mở rộng **Feature 4** thành quản lý source. Source (tức url của rss feed) sẽ cho phép người dùng thêm, xóa, sửa. Categories cũng cho phép người dùng thêm, xóa sửa.
   - **Feature 9**: mở rộng **Feature 6**: có thể ko dùng webview mà parse thẳng trang HTML của feed và hiển thị nội dung ngay trong app (dùng webview nó sẽ hiển thị phiên bản mobile của trang web).
+  - **Feature 10**: nếu **Feature 9** được hiện thực, có thể cho người dùng tùy chọn thay đổi font chữ và màu nền của trang đọc feed.
