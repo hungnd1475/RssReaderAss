@@ -2,8 +2,8 @@
   Liệt kê các feature sẽ hiện thực cho App - Mỗi feature sẽ tương ứng với 1 trang giao diện. Sau khi liệt kê ra sẽ lọc lại nên hiện thực những feature nào.
   - **Feature 1**: Splash screen - Hiển thị logo, tên app khi vào từ launcher.
   - **Feature 2**: Sử dụng layout **Tab**, có 2 Tab là **All Categories** và **My favorite**.
-    - All Categories: Những category có sẵn của App
-    - My Favorites: Những category người dùng thích add vào. (dạng ntn http://ninjamock.com/s/iioepr)
+    - ~~All Categories: Những category có sẵn của App~~
+    - ~~My Favorites: Những category người dùng thích add vào. (dạng ntn http://ninjamock.com/s/iioepr)~~
   - **Feature 3**: Sử dụng **filter** thay cho Feature 2 (ý của thánh Hưng)
   - **Feature 4**: Cho phép người dùng **Add Source** , Source có thể add vào một category đã có sẵn, hoặc cho phép người dùng tạo một category mới.
   - **Feature 5**: Hiển thị list news feed (tùy theo category hay filter ở trên là gì)
